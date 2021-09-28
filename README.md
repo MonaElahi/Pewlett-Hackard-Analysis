@@ -61,3 +61,6 @@ There are 7 different roles which needs to be filled when positions are vacant a
 There are 1,549 employees who are eligible to particiapte in Mentorship program. 
 Yes! The number of retirement ready employees are in excess to mentor
 the next generation of Pewlett Hackard.
+
+![git-hub](https://github.com/MonaElahi/Pewlett-Hackard-Analysis/blob/a17267c6b7d0c0dc8b659447e8925986859d5540/Queries/Mentorship%20code.PNG)
+
