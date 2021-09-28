@@ -63,4 +63,5 @@ Yes! The number of retirement ready employees are in excess to mentor
 the next generation of Pewlett Hackard.
 
 ![git-hub](https://github.com/MonaElahi/Pewlett-Hackard-Analysis/blob/a17267c6b7d0c0dc8b659447e8925986859d5540/Queries/Mentorship%20code.PNG)
+![git-hub](https://github.com/MonaElahi/Pewlett-Hackard-Analysis/blob/06c995a5fcb663bd8c72150416efb0229aa91e73/Mentorship%20Stats.PNG)
 
