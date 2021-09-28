@@ -32,7 +32,7 @@ and employees who are eligible to participate in mentorship program.
 
 
 As shows in the table above, Senior Engineer and Staff had the highest number among
-total retiring number. Then comes Engineer and staff, which is appox half the number 
+total retiring number. Then comes Engineer and staff, which is approx. half of the number 
 of senior titles. Further reduction had been observed in Technical Leader and Assistant
 Engineer titles and lowest number is in Manager title. 
 - There would be thousands of jobs openings in senior titles and Technical Leader position.
